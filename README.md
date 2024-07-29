@@ -1,1 +1,1 @@
-# spacecraft-attitude-dynamics
+This project, commissioned by the Spacecraft Attitude Dynamics course during my first year of the Master's program in Space Engineering, involved designing and analyzing the attitude determination and control system of a spacecraft. We utilized the MATLAB® Simulink environment to model the system and simulate its functionality.
